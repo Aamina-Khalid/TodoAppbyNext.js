@@ -1,0 +1,14 @@
+body {
+  background-color: wheat;
+}
+
+h1 {
+  color: brown;
+  text-align: center;
+  font-size: "300";
+}
+
+Button {
+  color: black;
+  cursor: pointer;
+}
